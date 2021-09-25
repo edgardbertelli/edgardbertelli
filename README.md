@@ -8,3 +8,40 @@
 - 💼 &nbsp; Desenvolvedor web back-end PHP/Laravel na [NewSun Energy Brazil](https://newsun.energy/ "Site de NewSun Energy Brazil").
 - 🌱 &nbsp; Entusiasta da Ciência de Dados e de BI (_Business Intelligence_).
 - ✍️ &nbsp; Estudando idiomas (atualmente alemão e italiano).
+
+<h2>Skills</h2>
+<h3>Linguagens de programação</h3>
+<p align=""left>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
+</p>
+
+<h3>Bancos de dados</h3>
+<p align=""left>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/ width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40"/>
+</p>
+
+<h3>Front-end</h3>
+<p align=""left>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS"/ width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="JQuery" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+</p>
+
+Gerenciadores de dependências
+<p align=""left>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="Composer"/ width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
+</p>
+
+<h3>IDEs</h3>
+<p align=""left>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code"/ width="40" height="40"/>
+</p>
+
