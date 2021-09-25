@@ -13,7 +13,6 @@
 <h3>Linguagens de programação</h3>
 <p align=""left>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
 </p>
 
@@ -34,7 +33,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
 </p>
 
-Gerenciadores de dependências
+<h3>Back-end</h3>
+<p align=""left>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+</p>
+
+<h3>Gerenciadores de dependências</h3>
 <p align=""left>
   <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="Composer"/ width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
