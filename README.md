@@ -5,8 +5,8 @@
 
 - 🎓 &nbsp; Pós-graduando em Ciência de Dados pela [UNIASSELVI](https://portal.uniasselvi.com.br/ "Portal UNIASSELVI")  e graduando em Cybersegurança pela [Universidade Anhanguera](https://www.anhanguera.com/ "Anhanguera website").
 - 💼 &nbsp; Desenvolvedor web back-end PHP/Laravel na [NewSun Energy Brazil](https://newsun.energy/ "Site de NewSun Energy Brazil").
-- 🌱 &nbsp; Entusiasta da Ciência de Dados e de BI (_Business Intelligence_).
-- ✍️ &nbsp; Estudando idiomas (atualmente alemão e italiano).
+- 🌱 &nbsp; Entusiasta da Ciência de Dados e Cybersegurança.
+- ✍️ &nbsp; Estudando idiomas (atualmente alemão, italiano e francês).
 
 <h2>Skills</h2>
 <h3>Linguagens de programação</h3>
