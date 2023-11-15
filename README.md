@@ -11,7 +11,10 @@
 </p>
 
 <p align="left"> 
-  Possuo conhecimento e experiência em PHP, Laravel, CodeIgniter, Python, R, Node.js, Kotlin, HTML, CSS, Javascript, JQuery, Bootstrap, Tailwind.css, Vue.js, MySQL, PostgreSQL, SQL Server, MongoDB e VBA(Excel).<br>
+  Possuo conhecimento e experiência em PHP, Laravel, CodeIgniter, Python, R, Node.js, Kotlin, HTML, CSS, Javascript, JQuery, Bootstrap, Tailwind.css, Vue.js, MySQL, PostgreSQL, SQL Server, MongoDB e VBA(Excel).
+</p>
+
+<p align="left"> 
   Estou sempre estudando, aprendendo coisas novas e atualizando meus conhecimentos em desenvolvimento de softwares e aplicações.
 </p>
 
